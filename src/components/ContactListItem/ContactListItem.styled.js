@@ -2,7 +2,6 @@ import styled from 'styled-components';
 
 export const Item = styled.li`
   border-bottom: 1px solid #ddd;
-  padding: 6px;
   border-radius: 4px;
   margin-bottom: 5px;
   display: flex;
